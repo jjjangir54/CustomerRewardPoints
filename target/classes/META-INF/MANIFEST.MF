@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: LENOVO
+Build-Jdk: 17.0.2
+Implementation-Title: RetailerRewardPoints
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.jjjangir54
+Implementation-URL: https://spring.io/projects/spring-boot/rewards
+Created-By: Maven Integration for Eclipse
+
